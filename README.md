@@ -4,6 +4,8 @@
 
 Но показывает некоторые идеи организации кода.
 
+[Gameplay видео](https://github.com/Petrakovvasya/DemoProj/blob/master/Gameplay.mp4)
+
 TODO
 - Сервисная архитектура (Zenject)
 - Хранилище
