@@ -1,0 +1,17 @@
+{
+    "name": "Demo.Extensions",
+    "rootNamespace": "Demo.Extensions",
+    "references": [
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:02eeaaa588f0a7f44b2a39a361d43687"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
