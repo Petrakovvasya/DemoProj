@@ -1,0 +1,22 @@
+{
+    "name": "Demo.Core",
+    "rootNamespace": "Demo.Core",
+    "references": [
+        "GUID:02eeaaa588f0a7f44b2a39a361d43687",
+        "GUID:8b4d575f0c27d8f44a1008dcd4d93bf0",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:2bbab385bd129204b8f82448f3194ca5",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:2ed820fd43b81d245b7092b91f6a1139",
+        "GUID:0e2290d564995274281a1319b4f697b6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
