@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44284713, g: 0.4918086, b: 0.57143503, a: 1}
+  m_IndirectSpecularColor: {r: 0.17938465, g: 0.22461364, b: 0.30628458, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -7919,7 +7919,7 @@ MonoBehaviour:
   _cheeseAmountText: {fileID: 1144773391}
   _hideDuration: 0.25
   _appearDuration: 0.5
-  _tutorAppearDelay: 0.25
+  _tutorAppearDelay: 1
   _gameEndedAppearDelay: 2
 --- !u!1001 &957090166
 PrefabInstance:
